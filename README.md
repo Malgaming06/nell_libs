@@ -1,0 +1,2 @@
+# nell_libs
+nell or nell libs is a library that allows you to create menus similar to those of Gta5 Online. nell was created for FiveM and is still in the early stages of development, it will probably be updated on this repository. In the future, I plan to release a version of nell for Alt:V in c# or js, it is not for now I reassure you. In terms of how it works, there will be no assistance, no example of how it’s used.
